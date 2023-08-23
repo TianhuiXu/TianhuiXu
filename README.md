@@ -1,6 +1,6 @@
-### Hi I'm Tianhui, Edtech & Tech for Good enthusiast, Senior at [Minerva University](https://www.minerva.edu/)
+### Hi I'm Tianhui, Edtech & Tech for Good enthusiast, Software engineer @Uber, Recent graduate from [Minerva University](https://www.minerva.edu/)
 
-- 📍 Currently located in Buenos Aires, Argentina 🇦🇷, Originally from Nanjing, China 🇨🇳, Goes to Uni in San Francisco, USA 🇺🇸
+- 📍 Currently located in San Francisco, Originally from Nanjing, China 🇨🇳, But considers herself half Latino
 
 
 - 🎮 Currently working on Langs, a language learning game app which let users learn practical expressions in Mandarin by interacting with NPCs and complete tasks in a immersive visual novel stories. You can play it [here](https://tianhui.itch.io/langs-renpy) and please let us know any feedback you have!
